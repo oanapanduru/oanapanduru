@@ -1,4 +1,4 @@
-Hi, I’m @oanapanduru 👋 
+Hi, I’m @oanapanduru. 
 I’m currently learning Java
 <!---
 oanapanduru/oanapanduru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
